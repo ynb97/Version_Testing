@@ -1,1 +1,1 @@
-v 1.0 This is the first file.
+v 2.0 This is the new version of file 1
